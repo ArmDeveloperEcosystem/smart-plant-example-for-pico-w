@@ -1,0 +1,37 @@
+{
+    "morning": [
+        "Good morning! ☀️",
+        "What a wonderful day to grow! 🌱",
+        "Grow or die -> 🌱 || ☠️",
+        "Aloe, aloe 👋",
+        "Shoot for the sun 🚀",
+    ],
+    "night": [
+        "Good night! 🌜",
+        "Hope your day was as great as mine was! 🤘",
+        "Good night sleep tight, don’t let the plant bugs bite 🪲",
+        "Today I have turned a new leaf 🍃",
+        "Tonight I will be mostly sleeping 😴",
+    ],
+    "random": [
+        "What did the rose text their best bud? I’m all wrapped up and no where to go! 🌹",
+        "What did the flower tell the taxi driver? Floret! 🚕",
+        "I'm rooting for you! 😄",
+        "Please don't leaf me 🍂",
+        "Putting down my roots 🪴",
+        "Long thyme no see 👀",
+    ],
+    "soil_dry": [
+        "Hey, some water would be nice ... 🌧",
+        "Could I please get some water? 💧",
+        "I'm feeling a bit thirsty over here 🥵",
+        "How about a water break? ☕️",
+        "It's getting a bit dry 🌵",
+    ],
+    "soil_watered": [
+        "Thanks, that was delicious! 😋",
+        "Cheers! 🍻",
+        "Thanks, now I'm ready to grow! 📈",
+        "Thanks, I owe you one! 🙏",
+    ],
+}
