@@ -67,6 +67,8 @@ soil_sensor.init()
 # initialize the Wi-Fi interface
 wlan = network.WLAN(network.STA_IF)
 wlan.active(True)
+wlan.disconnect()
+time.sleep(0.1)
 
 while True:
     # check if the Wi-Fi interface is connected
