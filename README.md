@@ -6,7 +6,7 @@ Please see the ["Give a plant a personality using the Raspberry Pi Pico W" guide
 
 ## Hardware
 
- * Raspberry Pi Pico W
+ * [Raspberry Pi Pico W](https://www.raspberrypi.com/products/raspberry-pi-pico/)
  * [Pimoroni Grow Kit](https://shop.pimoroni.com/products/grow?variant=32208365486163)
  * [Adafruit Perma-Proto HAT for Pi Mini Kit - No EEPROM](https://www.adafruit.com/product/2310)
 
