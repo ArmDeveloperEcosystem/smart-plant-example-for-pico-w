@@ -1,6 +1,5 @@
 #
-# Copyright (c) 2022 Arm Limited and Contributors. All rights reserved.
-#
+# SPDX-FileCopyrightText: Copyright 2022 Arm Limited and/or its affiliates <open-source-office@arm.com>
 # SPDX-License-Identifier: MIT
 #
 
